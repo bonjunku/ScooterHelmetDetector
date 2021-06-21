@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=ijOh_TxSuAE&ab_channel=%EC%9E%90%EB%9D%BC%EC%9E%
 https://drive.google.com/file/d/1eWKvClb_WRCqakboFkjekn0jRkhiEdJD/view?usp=sharing
 
 # reference
-Zhengxia Zou et al.(2019). Object Detection in 20 Years: A Survey, IEEE, https://arxiv.org/pdf/1905.05055.pdf
+Zhengxia Zou et al.(2019). Object Detection in 20 Years: A Survey, IEEE, https://arxiv.org/pdf/1905.05055.pdf\n
 Joseph Redmon et al.(2016). You Only Look Once: Unified, Real-Time Object Detection. IEEE, https://arxiv.org/pdf/1506.02640.pdf
 oseph Redmon et al.(2018). YOLOv3: An Incremental Improvement. IEEE,https://arxiv.org/pdf/1804.02767.pdf
 keras-YOLO3 https://github.com/qqwweee/keras-yolo3
