@@ -50,21 +50,35 @@ https://www.youtube.com/watch?v=ijOh_TxSuAE&ab_channel=%EC%9E%90%EB%9D%BC%EC%9E%
 https://drive.google.com/file/d/1eWKvClb_WRCqakboFkjekn0jRkhiEdJD/view?usp=sharing
 
 # reference
-Zhengxia Zou et al.(2019). Object Detection in 20 Years: A Survey, IEEE, https://arxiv.org/pdf/1905.05055.pdf\n
+Zhengxia Zou et al.(2019). Object Detection in 20 Years: A Survey, IEEE, https://arxiv.org/pdf/1905.05055.pdf
+
 Joseph Redmon et al.(2016). You Only Look Once: Unified, Real-Time Object Detection. IEEE, https://arxiv.org/pdf/1506.02640.pdf
+
 oseph Redmon et al.(2018). YOLOv3: An Incremental Improvement. IEEE,https://arxiv.org/pdf/1804.02767.pdf
+
 keras-YOLO3 https://github.com/qqwweee/keras-yolo3
+
 OIDv4_Toolkit https://github.com/EscVM/OIDv4_ToolKit
+
 
 # 환경설정
 Windows 10 64-bit
+
 Python 3.7.10
+
 conda 4.9.2
+
 TensorFlow GPU 1.15
+
 CUDA Toolkit 11.2 
+
 NVIDIA Geforce RTX 2080
+
 NVIDIA GPU drivers 461.33
+
 cuDNN 8.1.1
+
 1. https://theorydb.github.io/dev/2020/02/14/dev-dl-setting-local-python/
+
 2. https://raw.githubusercontent.com/chulminkw/DLCV/master/colab_tf115_modify_files/__init__.py
 
