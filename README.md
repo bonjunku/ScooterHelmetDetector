@@ -1,5 +1,5 @@
 # Scooter Helmet Detector
-AI final project
+
 ![image](https://user-images.githubusercontent.com/62752488/122725066-94a6c800-d2af-11eb-81fe-6e17284f8f27.png)
 
 # GOAL
