@@ -1,6 +1,6 @@
 # Scooter Helmet Detector
 
-![image](https://user-images.githubusercontent.com/62752488/122725066-94a6c800-d2af-11eb-81fe-6e17284f8f27.png)
+![sample](https://user-images.githubusercontent.com/62752488/122856946-a9886780-d352-11eb-9e1b-c46583045bec.gif)
 
 # GOAL
 헬멧 미착용 감지 및 경고 시스템 구현
