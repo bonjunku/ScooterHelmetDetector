@@ -2,6 +2,9 @@
 
 ![sample](https://user-images.githubusercontent.com/62752488/122856946-a9886780-d352-11eb-9e1b-c46583045bec.gif)
 
+# Demo Video
+https://www.youtube.com/watch?v=ijOh_TxSuAE&ab_channel=%EC%9E%90%EB%9D%BC%EC%9E%90
+
 # GOAL
 헬멧 미착용 감지 및 경고 시스템 구현
 
@@ -41,9 +44,6 @@
 2021.05.23.~2021.06.07 GUI 프로그래밍 마무리 및 데모 영상 제작
 
 2021.06.07.~2021.06.22 기말고사 기간, 최종보고서 작성 및 제출
-
-# Demo Video
-https://www.youtube.com/watch?v=ijOh_TxSuAE&ab_channel=%EC%9E%90%EB%9D%BC%EC%9E%90
 
 # 프로젝트 보고서
 
