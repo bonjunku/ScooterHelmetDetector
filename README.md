@@ -5,6 +5,10 @@
 # Demo Video
 https://www.youtube.com/watch?v=ijOh_TxSuAE&ab_channel=%EC%9E%90%EB%9D%BC%EC%9E%90
 
+# 프로젝트 보고서
+
+https://drive.google.com/file/d/1eWKvClb_WRCqakboFkjekn0jRkhiEdJD/view?usp=sharing
+
 # GOAL
 헬멧 미착용 감지 및 경고 시스템 구현
 
@@ -45,9 +49,7 @@ https://www.youtube.com/watch?v=ijOh_TxSuAE&ab_channel=%EC%9E%90%EB%9D%BC%EC%9E%
 
 2021.06.07.~2021.06.22 기말고사 기간, 최종보고서 작성 및 제출
 
-# 프로젝트 보고서
 
-https://drive.google.com/file/d/1eWKvClb_WRCqakboFkjekn0jRkhiEdJD/view?usp=sharing
 
 # reference
 Zhengxia Zou et al.(2019). Object Detection in 20 Years: A Survey, IEEE, https://arxiv.org/pdf/1905.05055.pdf
