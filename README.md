@@ -10,7 +10,7 @@
 
 - 아래 YouTube 영상을 참고해 주시기 바랍니다.
 
-- https://www.youtube.com/watch?v=ijOh_TxSuAE&ab_channel=%EC%9E%90%EB%9D%BC%EC%9E%90
+- https://www.youtube.com/watch?v=LFBeaK554nc
 
 # 프로젝트 보고서
 
